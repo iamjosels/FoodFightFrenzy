@@ -1,0 +1,17 @@
+# Unity generated files
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/.vs/
+.idea/
+.vscode/
+
+# User-specific files
+.userprefs
+
+# Ignore Unity .meta files that are unnecessary to track
+*.pidb
+*.user
